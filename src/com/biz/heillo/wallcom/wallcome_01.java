@@ -1,0 +1,11 @@
+package com.biz.heillo.wallcom;
+
+public class wallcome_01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+	}
+
+}
